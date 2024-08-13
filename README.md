@@ -43,6 +43,7 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+![Screenshot 2024-08-13 085107](https://github.com/user-attachments/assets/de90020b-e168-4fe5-8141-e364aad2b883)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +54,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/7c485a7e-fda6-4bf4-b925-d82ac7c6d1ca)
 
 ### RESULT: 
+Thus, associate rules for the employee dataset using Apriori Algorithm is generated successfully.
